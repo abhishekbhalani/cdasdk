@@ -1,0 +1,1 @@
+sgen /assembly:..\Out\HL7SDK.Xml.Cda.dll /compiler:/keyfile:.\HL7SDK.Xml.Cda.snk /force /keep /out:.

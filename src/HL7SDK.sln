@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7SDK.Test", "HL7SDK.Test\HL7SDK.Test.csproj", "{68C92A28-DACB-4F34-872A-D65F4826C27E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E675E7F0-A7F5-4554-BFF0-765010D43D95}"
+	ProjectSection(SolutionItems) = preProject
+		HL7SDK.vsmdi = HL7SDK.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7SDK", "HL7SDK\HL7SDK.csproj", "{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDABrowser", "CDABrowser\CDABrowser.csproj", "{FF0A0C8C-68C9-42EA-978B-3617E5696502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7SDK.Xml.Cda", "HL7SDK.Xml.Cda\HL7SDK.Xml.Cda.csproj", "{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{E5628B27-19E8-4AE5-84A4-3B503E83F277}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Out", "Out", "{1D839CE4-94FE-4763-8EF5-9B0D3EB3EEB5}"
+	ProjectSection(SolutionItems) = preProject
+		Out\HL7SDK.tlb = Out\HL7SDK.tlb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{68C92A28-DACB-4F34-872A-D65F4826C27E}.Release|x86.ActiveCfg = Release|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BFC16CB3-1199-4F7F-85A3-9EE1CDB11128}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|Any CPU.Build.0 = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|x86.ActiveCfg = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Debug|x86.Build.0 = Debug|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Release|Any CPU.ActiveCfg = Release|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Release|x86.ActiveCfg = Release|x86
+		{FF0A0C8C-68C9-42EA-978B-3617E5696502}.Release|x86.Build.0 = Release|x86
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{54E3C9E4-FB08-4AD0-9BAF-83715423E5E8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = HL7SDK.vsmdi
+	EndGlobalSection
+EndGlobal

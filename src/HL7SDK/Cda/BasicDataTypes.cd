@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HL7SDK.Xml.Cda.BIN">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.BL">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ANY">
+    <Position X="50.25" Y="0.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ANYNonNull">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.BXIT_CD">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.BXIT_IVL_PQ">
+    <Position X="63" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CD">
+    <Position X="13" Y="3.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CE">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CO">
+    <Position X="9.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CR">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CS">
+    <Position X="12" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.CV">
+    <Position X="12" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ED">
+    <Position X="1.5" Y="6" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.EIVL_PPD_TS">
+    <Position X="76.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.EIVL_TS">
+    <Position X="84" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.EN">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ENXP">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.GLIST_PQ">
+    <Position X="32.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.GLIST_TS">
+    <Position X="34.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.HXIT_CE">
+    <Position X="16.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.HXIT_PQ">
+    <Position X="53.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.II">
+    <Position X="36.75" Y="3.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.INT">
+    <Position X="45.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_INT">
+    <Position X="46.5" Y="10.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_MO">
+    <Position X="41.75" Y="10.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_PPD_PQ">
+    <Position X="58.25" Y="13.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_PPD_TS">
+    <Position X="81.5" Y="13" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_PQ">
+    <Position X="63" Y="10.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_REAL">
+    <Position X="51.25" Y="10.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVL_TS">
+    <Position X="88.75" Y="10.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_INT">
+    <Position X="44.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_MO">
+    <Position X="39.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_PPD_PQ">
+    <Position X="56" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_PPD_TS">
+    <Position X="74.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_PQ">
+    <Position X="60.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_REAL">
+    <Position X="49" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.IVXB_TS">
+    <Position X="72.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.MO">
+    <Position X="40.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ON">
+    <Position X="25.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PIVL_PPD_TS">
+    <Position X="79" Y="13" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PIVL_TS">
+    <Position X="86.25" Y="10.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PN">
+    <Position X="23.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PPD_PQ">
+    <Position X="57" Y="8.25" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PPD_TS">
+    <Position X="77.75" Y="7.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PQ">
+    <Position X="58.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.PQR">
+    <Position X="14.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.QTY">
+    <Position X="66.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.REAL">
+    <Position X="50.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.RTO">
+    <Position X="65.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.RTO_MO_PQ">
+    <Position X="67.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.RTO_PQ_PQ">
+    <Position X="70" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.RTO_QTY_QTY">
+    <Position X="65.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SC">
+    <Position X="2.75" Y="11.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SLIST_PQ">
+    <Position X="96" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SLIST_TS">
+    <Position X="98.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.ST">
+    <Position X="1.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_CD">
+    <Position X="18.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_INT">
+    <Position X="46.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_MO">
+    <Position X="41.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_PPD_PQ">
+    <Position X="58.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_PPD_TS">
+    <Position X="79.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_PQ">
+    <Position X="63" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_REAL">
+    <Position X="51.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXCM_TS">
+    <Position X="87.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.SXPR_TS">
+    <Position X="91.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.TEL">
+    <Position X="100.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.TN">
+    <Position X="27.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.TS">
+    <Position X="83" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.URL">
+    <Position X="100.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HL7SDK.Xml.Cda.UVP_TS">
+    <Position X="93.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
